@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adeshjawkar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adeshjawkar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adeshjawkar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/adeshjawkar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshjawkar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -45,4 +46,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adeshjawkar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
