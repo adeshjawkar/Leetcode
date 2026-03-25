@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adeshjawkar/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adeshjawkar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adeshjawkar/Leetcode/tree/master/0054-spiral-matrix) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
