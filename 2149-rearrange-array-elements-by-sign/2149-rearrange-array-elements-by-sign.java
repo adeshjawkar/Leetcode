@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] a = new int[n/2];
         int[] b = new int[n/2];
-        int[] ans = new int[n];
+        //int[] ans = new int[n];
         int j=0;
         int k=0;
         for(int i=0; i<n; i++){ 
@@ -22,17 +22,17 @@ class Solution {
         int q=0;
         for(int i=0; i<n; i++){
             if(i%2==0){
-                ans[i]=a[p];
+                nums[i]=a[p];
                 p++;
             }
             else{
-                ans[i]=b[q];
+                nums[i]=b[q];
                 q++;
 
             }
         }
        
-        return ans;
+        return nums;
         
     }
 }
