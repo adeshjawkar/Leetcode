@@ -15,11 +15,13 @@
 | [0118-pascals-triangle](https://github.com/adeshjawkar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshjawkar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adeshjawkar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adeshjawkar/Leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adeshjawkar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,10 +64,12 @@
 | [0075-sort-colors](https://github.com/adeshjawkar/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adeshjawkar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adeshjawkar/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
