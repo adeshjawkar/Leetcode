@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshjawkar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/adeshjawkar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adeshjawkar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/adeshjawkar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adeshjawkar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -72,4 +74,5 @@
 | [0075-sort-colors](https://github.com/adeshjawkar/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/adeshjawkar/Leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
