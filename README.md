@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/adeshjawkar/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1991-find-the-middle-index-in-array](https://github.com/adeshjawkar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adeshjawkar/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -77,4 +78,8 @@
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/adeshjawkar/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/adeshjawkar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
