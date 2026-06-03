@@ -1,17 +1,26 @@
+import java.util.*;
+
 class Solution {
-    public List<List<Integer>> generate(int n) {
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int i=0; i<n; i++){
-            List<Integer> l = new ArrayList<>();
-            for(int j=0; j<=i; j++){
-                if(j==0 || j==i) l.add(1);
-                else  l.add(ans.get(i-1).get(j) + ans.get(i-1).get(j-1));
+    public List<List<Integer>> generate(int numRows) {
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        for (int row = 1; row <= numRows; row++) {
+
+            List<Integer> current = new ArrayList<>();
+            long ans = 1;
+
+            current.add(1);
+
+            for (int i = 1; i < row; i++) {
+                ans = ans * (row - i);
+                ans = ans / i;
+                current.add((int) ans);
             }
-            ans.add(l);
+
+            result.add(current);
         }
-        return ans;
 
-
-        
+        return result;
     }
 }
