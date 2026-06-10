@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adeshjawkar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adeshjawkar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/adeshjawkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adeshjawkar/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adeshjawkar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adeshjawkar/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adeshjawkar/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adeshjawkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/adeshjawkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -46,6 +48,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adeshjawkar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adeshjawkar/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/adeshjawkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/adeshjawkar/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
