@@ -39,10 +39,12 @@
 | [0002-add-two-numbers](https://github.com/adeshjawkar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/adeshjawkar/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adeshjawkar/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/adeshjawkar/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adeshjawkar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/adeshjawkar/Leetcode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/adeshjawkar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adeshjawkar/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
