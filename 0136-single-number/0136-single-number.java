@@ -7,6 +7,7 @@ class Solution {
                 if(i==j) continue;
                 if(nums[i]==nums[j]){
                     ans = true;
+                    break;
                 }
 
             }
